@@ -13,8 +13,6 @@ class script(object):
 
     CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
 
-⚙️ sɪᴢᴇ : {file_size}
-
 Jᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/Itachi24x7)</b>""" 
 
 # Don't Remove Credit Tg - @VJ_Botz
